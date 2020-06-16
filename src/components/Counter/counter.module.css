@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+.counterContainer {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 1.2rem;
+    font-family: Consolar, monospace;
+}
+
+.counterValue {
+    padding: 20px;
+}
